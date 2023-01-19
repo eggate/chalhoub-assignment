@@ -1,0 +1,9 @@
+[submodule "Shopfinder"]
+	path = Shopfinder
+	url = https://github.com/eggate/chalhoub-shopfinder
+[submodule "ShopfinderGraphQl"]
+	path = ShopfinderGraphQl
+	url = https://github.com/eggate/chalhoub-shopfinder-graph-ql
+[submodule "Magento2Docker"]
+	path = Magento2Docker
+	url = https://github.com/eggate/magento2-docker
